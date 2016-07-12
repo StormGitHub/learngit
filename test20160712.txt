@@ -1,0 +1,3 @@
+test command 'git add <file>'
+test command 'git commit -m <comments>'
+test command 'git push -u orign master'
