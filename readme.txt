@@ -9,3 +9,5 @@ Test command "git checkout -- <file>"
 Test command "git reset"
 
 Test command "Git branch"
+
+Test command "Git stash"
